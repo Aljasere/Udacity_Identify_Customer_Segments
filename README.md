@@ -4,7 +4,7 @@
 Udacity Data Scientist Nanodegree Project Identify Customer Segments
 
 Table of Contents:
-- Installation
+- Dependencies
 - Project Motivation
 - File Descriptions
 - Licensing, Authors, and Acknowledgements
